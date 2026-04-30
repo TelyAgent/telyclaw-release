@@ -1,0 +1,36 @@
+{
+  "code": 0,
+  "data": {
+    "value": {
+      "version": "2.10.3",
+      "date": "2026-04-30",
+      "changeLog": {
+        "ch": {
+          "title": "TelyClaw 2.10.3",
+          "content": [
+            "发布 TelyClaw macOS arm64 安装包。",
+            "配置 TelyClaw 独立更新与安装包下载仓库。"
+          ]
+        },
+        "en": {
+          "title": "TelyClaw 2.10.3",
+          "content": [
+            "Released the TelyClaw macOS arm64 installer.",
+            "Configured the dedicated TelyClaw update and installer distribution repository."
+          ]
+        }
+      },
+      "macArm": {
+        "url": "https://media.githubusercontent.com/media/TelyAgent/telyclaw-release/main/downloads/v2.10.3/TelyClaw-2.10.3-arm64.dmg"
+      },
+      "files": {
+        "macArm": {
+          "url": "https://media.githubusercontent.com/media/TelyAgent/telyclaw-release/main/downloads/v2.10.3/TelyClaw-2.10.3-arm64.dmg",
+          "name": "TelyClaw-2.10.3-arm64.dmg",
+          "sha512": "NLprvPfefYY9PkeLzky37AgACB1t7UAvebqn29/j2V4Ze3hU+fm9sgi9y08idqkF9EgTIKZqCxmUj5oKiruuJg==",
+          "size": 190719946
+        }
+      }
+    }
+  }
+}
