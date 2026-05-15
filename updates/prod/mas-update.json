@@ -1,0 +1,30 @@
+{
+  "code": 0,
+  "data": {
+    "value": {
+      "version": "0.0.1",
+      "buildNumber": "5",
+      "date": "2026-05-15",
+      "appStore": {
+        "url": "",
+        "webUrl": ""
+      },
+      "changeLog": {
+        "ch": {
+          "title": "TelyClaw 0.0.1",
+          "content": [
+            "Mac App Store 版本更新入口预留。",
+            "上架后可在此配置 App Store 跳转链接。"
+          ]
+        },
+        "en": {
+          "title": "TelyClaw 0.0.1",
+          "content": [
+            "Reserved the update entry for the Mac App Store build.",
+            "The App Store link can be configured here after listing."
+          ]
+        }
+      }
+    }
+  }
+}

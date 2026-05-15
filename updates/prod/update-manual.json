@@ -2,33 +2,33 @@
   "code": 0,
   "data": {
     "value": {
-      "version": "2.10.3",
-      "date": "2026-04-30",
+      "version": "0.0.2",
+      "date": "2026-05-15",
       "changeLog": {
         "ch": {
-          "title": "TelyClaw 2.10.3",
+          "title": "TelyClaw 0.0.2",
           "content": [
-            "发布 TelyClaw macOS arm64 安装包。",
-            "配置 TelyClaw 独立更新与安装包下载仓库。"
+            "启用 Tauri 自动更新测试通道。",
+            "支持 Mac App Store 版本新版本提示配置。"
           ]
         },
         "en": {
-          "title": "TelyClaw 2.10.3",
+          "title": "TelyClaw 0.0.2",
           "content": [
-            "Released the TelyClaw macOS arm64 installer.",
-            "Configured the dedicated TelyClaw update and installer distribution repository."
+            "Enabled the Tauri updater test channel.",
+            "Added configurable update prompts for the Mac App Store build."
           ]
         }
       },
       "macArm": {
-        "url": "https://media.githubusercontent.com/media/TelyAgent/telyclaw-release/main/downloads/v2.10.3/TelyClaw-2.10.3-arm64.dmg"
+        "url": "https://media.githubusercontent.com/media/TelyAgent/telyclaw-release/main/downloads/v0.0.2/TelyClaw_0.0.2_aarch64.dmg"
       },
       "files": {
         "macArm": {
-          "url": "https://media.githubusercontent.com/media/TelyAgent/telyclaw-release/main/downloads/v2.10.3/TelyClaw-2.10.3-arm64.dmg",
-          "name": "TelyClaw-2.10.3-arm64.dmg",
-          "sha512": "NLprvPfefYY9PkeLzky37AgACB1t7UAvebqn29/j2V4Ze3hU+fm9sgi9y08idqkF9EgTIKZqCxmUj5oKiruuJg==",
-          "size": 190719946
+          "url": "https://media.githubusercontent.com/media/TelyAgent/telyclaw-release/main/downloads/v0.0.2/TelyClaw_0.0.2_aarch64.dmg",
+          "name": "TelyClaw_0.0.2_aarch64.dmg",
+          "sha512": "AiiIHl4VPcLpMlvsLFTOSD5hAHH8zHzAAfZbDCg9mBpzizOq5skelJ8Xl1N2hCAQhPDpzyKKxDU6R8diiMd0aw==",
+          "size": 191961890
         }
       }
     }
