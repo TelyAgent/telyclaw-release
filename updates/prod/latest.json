@@ -1,11 +1,11 @@
 {
-  "version": "0.0.2",
-  "notes": "v0.0.2",
-  "pub_date": "2026-05-25T13:41:00Z",
+  "version": "0.0.1",
+  "notes": "",
+  "pub_date": "2026-05-26T07:07:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXkvSlNiVGxySk9GcW16R2duQW4rNlpYMEtOTHFCOWFDVHRoRUttTnRoVGRXWUJ3WnBTcWZFcUpzODJ0UDR0a3BBMnR0TDlkSE44am5uN1JGWXJxWVc3MEVWNUUzT2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzExMzc1CWZpbGU6VGVseUNsYXcuYXBwLnRhci5negpoeEZyVjg0a1hCbGcreVBKaXVRWmE4amRWQzBiMGVRNTMyRklJcUFtSGtMU29KTGg2YWFFT0xrOVRGU0NCOGVLeTRtZnBtQmo4N0QxT3hXR05CU1NBQT09Cg==",
-      "url": "https://github.com/TelyAgent/telyclaw-release/releases/download/air_v0.0.2/TelyClaw.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVXkvSlNiVGxySko0NG90akg1RUx3OUxyYVBDL3Bva3cxTFFtMTVxblByNVFuQXpCYk5CUmRBdE5kWnRCRy9SaDhDbmJ4ZDljUHRXSi9RT1F3OTk0VHB6cTVPQVUxa3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5Nzc4NDgxCWZpbGU6VGVseUNsYXcuYXBwLnRhci5negpmZGZ2VmhRcTd3TVppOURmaWN3aFpIYTl0MTFUeFB6cWFVWUxUUTJPbnVIaFdtNzZZQnU2UXIyd3dDYVRSNHl4Z0p4UnpXbnErOXA3WGxWcWVrckJEZz09Cg==",
+      "url": "https://github.com/TelyAgent/telyclaw-release/releases/download/air_v0.0.1/TelyClaw.app.tar.gz"
     }
   }
 }
